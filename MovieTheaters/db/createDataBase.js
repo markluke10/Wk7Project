@@ -12,4 +12,6 @@ let buildDB = async () =>{
     await createDataBase()
 };
 
+buildDB()
+
 module.exports = {buildDB};

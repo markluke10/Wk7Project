@@ -4,7 +4,7 @@ const movieData = [
         length: "169 Mins",
         director: "Christopher Nolan",
         genre: "Adventure, Drama, Sci-Fi",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.6
     },
     {
@@ -12,7 +12,7 @@ const movieData = [
         length: "180 Mins",
         director: "Martin Scorsese",
         genre: "Comedy, Crime",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.2
     },
     {
@@ -20,7 +20,7 @@ const movieData = [
         length: "164 Mins",
         director: "Denis Villeneuve",
         genre: "Action, Drama, Mystery, Sci-Fi",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.0
     },
     {
@@ -28,7 +28,7 @@ const movieData = [
         length: "148 Mins",
         director: "Christopher Nolan",
         genre: "Action, Adventure, Sci-Fi",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.8
     },
     {
@@ -36,7 +36,7 @@ const movieData = [
         length: "121 Mins",
         director: "James Gunn",
         genre: "Action, Adventure, Comedy",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.0
     },
     {
@@ -44,7 +44,7 @@ const movieData = [
         length: "262 Mins",
         director: "James Cameron",
         genre: "Action, Adventure, Fantasy",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 7.8
     },
     {
@@ -52,7 +52,7 @@ const movieData = [
         length: "124 Mins",
         director: "Colin Trevorrow",
         genre: "Action, Adventure, Sci-Fi",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 6.9
     },
     {
@@ -60,7 +60,7 @@ const movieData = [
         length: "138 Mins",
         director: "J.J. Abrams",
         genre: "Action, Adventure, Sci-Fi",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 7.8
     },
     {
@@ -68,7 +68,7 @@ const movieData = [
         length: "164 Mins",
         director: "Christopher Nolan",
         genre: "Action, Drama",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.4
     },
     {
@@ -76,7 +76,7 @@ const movieData = [
         length: "130 Mins",
         director: "David Yates",
         genre: "Adventure, Fantasy, Mystery",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.1
     },
     {
@@ -84,7 +84,7 @@ const movieData = [
         length: "144 Mins",
         director: "Ridley Scott",
         genre: "Adventure, Drama, Sci-Fi",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.0
     },
     {
@@ -92,7 +92,7 @@ const movieData = [
         length: "114 Mins",
         director: "Morten Tyldum",
         genre: "Drama, Thriller",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.0
     },
     {
@@ -100,7 +100,7 @@ const movieData = [
         length: "103 Mins",
         director: "Lee Unkrich",
         genre: "Animation, Adventure, Comedy",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.3
     },
     {
@@ -108,7 +108,7 @@ const movieData = [
         length: "127 Mins",
         director: "Tomas Alfredson",
         genre: "Drama, Mystery, Thriller",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 7.0
     },
     {
@@ -116,7 +116,7 @@ const movieData = [
         length: "136 Mins",
         director: "Lana Wachowski & Lilly Wachowski",
         genre: "Action, Sci-Fi",
-        numberOfViews: [],
+        numberOfViews: 0,
         rating: 8.7
     },
 ]
