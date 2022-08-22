@@ -1,8 +1,8 @@
 const {Movie} = require('./Movie')
 const {User} = require('./User')
 
-// Movie.hasMany(User)
-// User.hasMany(Movie)
+Movie.belongsToMany(User, {through: 'Movies_Watched'})
+User.belongsToMany(Movie, {through: 'Movies_Watched'})
 
 
 
